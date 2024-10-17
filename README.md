@@ -42,7 +42,16 @@ It finds the position of a specified text within the original text
 #### 5.SEARCH Function
 
 Similar to FIND, but not case-sensitive.
-##### SEARCH(find_text, text)`
-
+##### SEARCH(find_text, text)
+### OTHER TEXT FUNCTIONS
+##### *LOWER
+##### *UPPER
+##### *PROPER 
+##### *TRIM
+#####  *RAND
+##### *SUM/SUMIFS
+##### *FLASHFILL
+##### *CONCAT
+##### *MAX/MAXIFS
 
 ![17291280003403731429356671403378](https://github.com/user-attachments/assets/3012ac21-4a4f-4dce-a7b3-c47c25deb504)
